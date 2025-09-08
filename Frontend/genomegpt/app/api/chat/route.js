@@ -3,7 +3,7 @@ import { Groq } from 'groq-sdk';
 // import dotenv from "dotenv";
 
 const API = process.env.API_KEY;
-console.log(API);
+// console.log(API);
 
 // Initialize Groq client
 const groq = new Groq({
