@@ -18,7 +18,7 @@ const Home = () => {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <Stethoscope className="w-8 h-8 text-indigo-600 mr-3" />
-              <span className="text-xl font-bold text-gray-900">MedAI Platform</span>
+              <span className="text-xl font-bold text-gray-900">GENOME GPT</span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
               <Link href="#features" className="text-gray-600 hover:text-gray-900 transition-colors">
