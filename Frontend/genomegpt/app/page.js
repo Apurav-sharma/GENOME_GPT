@@ -328,7 +328,7 @@ const Home = () => {
             <div className="md:col-span-2">
               <div className="flex items-center mb-4">
                 <Stethoscope className="w-8 h-8 text-indigo-400 mr-3" />
-                <span className="text-2xl font-bold">MedAI Platform</span>
+                <span className="text-2xl font-bold">GENOME GPT</span>
               </div>
               <p className="text-gray-400 mb-6 max-w-md">
                 Advanced AI-powered healthcare solutions for modern medical practice.
