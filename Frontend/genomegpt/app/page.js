@@ -49,7 +49,7 @@ const Home = () => {
             </div>
 
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-              Medical AI Platform
+              GENOME GPT
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto">
               Advanced AI-powered healthcare solutions combining intelligent chatbots with genomic analysis
