@@ -79,7 +79,7 @@ const Home = () => {
               >
                 <div className="flex items-center justify-center">
                   <MessageSquare className="w-6 h-6 mr-3" />
-                  Launch AI Chatbot
+                  Launch genomeGPT
                   <ChevronRight className="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" />
                 </div>
                 <div className="absolute inset-0 bg-white opacity-0 group-hover:opacity-20 rounded-xl transition-opacity"></div>
@@ -125,14 +125,14 @@ const Home = () => {
                 <div className="inline-flex items-center justify-center w-16 h-16 bg-gradient-to-r from-blue-500 to-indigo-500 rounded-full mb-4">
                   <MessageSquare className="w-8 h-8 text-white" />
                 </div>
-                <h3 className="text-2xl font-bold text-gray-900 mb-2">AI Medical Chatbot</h3>
+                <h3 className="text-2xl font-bold text-gray-900 mb-2">GenomeGPT</h3>
                 <p className="text-gray-600">Intelligent conversational AI with medical knowledge and memory</p>
               </div>
 
               <div className="space-y-4 mb-8">
                 <div className="flex items-center text-gray-700">
                   <Brain className="w-5 h-5 text-blue-500 mr-3" />
-                  <span>Powered by advanced LLM (Groq)</span>
+                  <span>Powered by Phoenix Labs Global</span>
                 </div>
                 <div className="flex items-center text-gray-700">
                   <Database className="w-5 h-5 text-blue-500 mr-3" />
@@ -307,7 +307,7 @@ const Home = () => {
               className="bg-blue-600 text-white px-8 py-4 rounded-xl font-semibold text-lg hover:bg-blue-700 transition-colors shadow-lg hover:shadow-xl transform hover:scale-105 flex items-center justify-center"
             >
               <MessageSquare className="w-6 h-6 mr-3" />
-              Try AI Chatbot
+              Try GenomeGPT
             </Link>
 
             <Link
@@ -351,7 +351,7 @@ const Home = () => {
               <h3 className="text-lg font-semibold mb-4">Platform</h3>
               <div className="space-y-2">
                 <Link href="/chatbot" className="block text-gray-400 hover:text-white transition-colors">
-                  AI Chatbot
+                  GenomeGPT
                 </Link>
                 <Link href="/genomics" className="block text-gray-400 hover:text-white transition-colors">
                   Genomic Analysis
