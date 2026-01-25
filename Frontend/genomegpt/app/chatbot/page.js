@@ -110,8 +110,8 @@ export default function ChatPage() {
                 <div className="bg-white shadow-sm border-b p-4 rounded-t-lg mt-4">
                     <div className="flex justify-between items-center">
                         <div>
-                            <h1 className="text-2xl font-bold text-gray-800">AI Chat Assistant</h1>
-                            <p className="text-sm text-gray-600">Powered by Groq LLM</p>
+                            <h1 className="text-2xl font-bold text-gray-800">Genome GPT</h1>
+                            <p className="text-sm text-gray-600">Powered by OpenAI LLM</p>
                         </div>
                         <button
                             onClick={clearConversation}
@@ -129,7 +129,7 @@ export default function ChatPage() {
                             <div className="text-center">
                                 <div className="text-6xl mb-4">🤖</div>
                                 <h2 className="text-xl font-semibold text-gray-700 mb-2">
-                                    Welcome to AI Chat
+                                    Welcome to Genome GPT!
                                 </h2>
                                 <p className="text-gray-500">
                                     Start a conversation by typing a message below
