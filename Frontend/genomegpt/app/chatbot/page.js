@@ -111,7 +111,7 @@ export default function ChatPage() {
                     <div className="flex justify-between items-center">
                         <div>
                             <h1 className="text-2xl font-bold text-gray-800">Genome GPT</h1>
-                            <p className="text-sm text-gray-600">Powered by OpenAI LLM</p>
+                            <p className="text-sm text-gray-600">Powered by Phoenix Labs Global</p>
                         </div>
                         <button
                             onClick={clearConversation}
